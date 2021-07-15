@@ -5,3 +5,6 @@ console.time();
     console.log(element);
 });
 console.timeEnd();
+
+console.log('testing ...');
+
