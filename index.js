@@ -7,4 +7,3 @@ console.time();
 console.timeEnd();
 
 console.log('testing ...');
-
